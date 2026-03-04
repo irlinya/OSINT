@@ -25,16 +25,13 @@ This analysis demonstrates a real-world case of image-based disinformation, wher
 
 ## Exercise Scenario
 
-### The Claim
+On January 19, 2023, a journalist with almost 140k followers on Twitter shared an image of a destroyed vehicle amidst a large cloud of smoke and fire. The tweet said: 
 
-A Twitter post dated **January 19, 2023** claimed to show:
+**"BREAKING: TTP carried out a suicide attack on a police post in Khyber city of Pakistan that killed three Pakistani police officers."**
 
-- **Location**: Khyber, Pakistan
-- **Incident**: TTP suicide attack targeting a police post
-- **Casualties**: 3 Pakistani police officers killed
-- **Evidence**: Graphic image showing destroyed vehicle, smoke, and debris
+**The photo is not of the event described by the journalist.**
 
-**Question**: Is this photograph genuinely from Pakistan and the described incident?
+**Task:** Verify the statement above.
 
 ![Original Tweet Claim](images/original-tweet.png)
 *The viral tweet claiming to show a TTP attack in Pakistan*
