@@ -153,14 +153,6 @@ This case demonstrates a common disinformation tactic where **authentic images f
 
 ---
 
-## Related Resources
-
-- [OSINT Framework](https://osintframework.com/)
-- [Bellingcat's Online Investigation Toolkit](https://bit.ly/bcattools)
-- [First Draft's Visual Verification Guide](https://firstdraftnews.org/)
-
----
-
 ## License
 
 This analysis is shared for educational purposes. All credit for the original exercise goes to Sofia Santos.
