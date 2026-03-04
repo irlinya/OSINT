@@ -5,7 +5,7 @@
 
 ---
 
-## 📋 Table of Contents
+## Table of Contents
 
 - [Overview](#overview)
 - [Exercise Scenario](#exercise-scenario)
@@ -123,7 +123,7 @@ This case demonstrates a common disinformation tactic where **authentic images f
 
 ---
 
-## 🛠️ Tools & Techniques
+## Tools & Techniques
 
 ### Recommended OSINT Tools:
 
@@ -167,7 +167,7 @@ This analysis is shared for educational purposes. All credit for the original ex
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 osint-image-verification/
